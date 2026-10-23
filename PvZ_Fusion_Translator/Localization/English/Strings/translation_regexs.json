@@ -522,6 +522,7 @@
   "^([\\s\\S]*)\n<size=85%>本局获得：(\\d+)诸神币\n([\\s\\S]+)</size>$": "{0}\n<size=85%>God Coins earned this run: {1}\n{2}</size>",
   "^([\\s\\S]*)\n<size=85%>本局获得：(\\d+)诸神币</size>$": "{0}\n<size=85%>God Coins earned this run: {1}</size>",
   "^第(\\d+)轮完成，获得(\\d+)诸神币$": "Round {0} complete! +{1} God Coins",
+  "^本局获得：(\\d+) 诸神币$": "God Coins earned this run: {0}",
   "^诸神进化：无尽，第(\\d+)轮$": "The Gods: Evolved (Endless), Round {0}",
   "^试炼：([\\s\\S]+)": "Trial: {0}",
   "^刷新本行([\\s\\S]+)": "Reroll this row {0}",
